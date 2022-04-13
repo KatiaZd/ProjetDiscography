@@ -1,1 +1,5 @@
-Intégration de ma première maquette en HTML/CSS - Inco Academy
+<h1>Projet "Discography"</h1>
+
+:technologist: Découverte du HTML5/CSS3 - Inco Academy
+
+
